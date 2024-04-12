@@ -1,9 +1,9 @@
 <div>
     <div align="center">
-        <a href="https://github.com/Banner-19"><img src="C:\Users\Bhaskar Banerjee\Downloads\Sign.jpg"></a>
+        <a href="https://github.com/Banner-19"><img src="https://github.com/Banner-19/Banner-19/assets/115279831/d456425f-e1a3-438a-a02a-628c28603465"></a>
     </div>
     <div align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=700&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Bhaskar+Banerjee;Machine+Learning+Enthusiast;Data+Scientist;Cloud+Engineer;AWS+Solution+Architect;Flutter+Developer;Frontend+Developer;Emerging+Tech+Researcher;" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=700&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Bhaskar+Banerjee;A+Machine+Learning+Enthusiast;A+Data+Scientist;A+Cloud+Engineer;An+AWS+Solution+Architect;A+Flutter+Developer;A+Frontend+Developer;and+An+Emerging+Tech+Researcher;" alt="Typing SVG" /></a>
     </div>
     <div align="center">
     <a href="https://linkedin.com/in/bhaskar-banerjee-a55bb9228/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="37" height="35" style="margin-right: 10px;" /></a>
@@ -16,7 +16,7 @@
             <strong>
                With a solid foundation in machine learning, cloud architecture, and competitive coding, I've cultivated a diverse skill set that allows me to thrive in various technological domains. Armed with years of experience, I approach each project with a unique blend of expertise and innovation.
 
-Proficient in an array of programming languages including Python, Java, C#, C++, Kotlin, and Dart, I'm equipped to tackle diverse programming challenges with ease. I leverage frameworks such as Flutter, Django, Flask, NLTK, Dash, and Pandas to streamline development processes and deliver efficient solutions.
+Proficient in an array of programming languages including Python, Java, C, C++, JavaScript, and Dart, I'm equipped to tackle diverse programming challenges with ease. I leverage frameworks such as Flutter, Django, Flask, NLTK, Dash, and Pandas to streamline development processes and deliver efficient solutions.
 
 My expertise in machine learning enables me to uncover intricate data patterns and extract actionable insights, while my role as a cloud architect ensures the scalability, efficiency, and security of the solutions I design. As a competitive coder, I excel in high-pressure environments, leveraging my problem-solving skills to deliver optimal solutions under tight deadlines.
 
