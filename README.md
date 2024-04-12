@@ -3,7 +3,7 @@
         <a href="https://github.com/Banner-19"><img src="https://github.com/Banner-19/Banner-19/assets/115279831/d456425f-e1a3-438a-a02a-628c28603465"></a>
     </div>
     <div align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=700&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Bhaskar+Banerjee;A+Machine+Learning+Enthusiast;A+Data+Scientist;A+Cloud+Engineer;An+AWS+Solution+Architect;A+Flutter+Developer;A+Frontend+Developer;and+An+Emerging+Tech+Researcher;" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=700&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Bhaskar+Banerjee;A+Machine+Learning+Enthusiast;A+Data+Scientist;A+Cloud+Engineer;An+AWS+Solution+Architect;A+Flutter+Developer;A+Frontend+Developer;and+Emerging+Tech+Researcher;" alt="Typing SVG" /></a>
     </div>
     <div align="center">
     <a href="https://linkedin.com/in/bhaskar-banerjee-a55bb9228/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="37" height="35" style="margin-right: 10px;" /></a>
