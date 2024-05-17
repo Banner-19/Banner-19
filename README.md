@@ -137,6 +137,14 @@ About Me = [
  ![Bhaskar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Banner-19&theme=transparent&show_icons=true&hide_border=false&layout=compact&count_private=true)
 
 <hr>
+
+[![Banner's github activity](https://github-readme-activity-graph.vercel.app/graph?username=Banner-19&theme=react-dark)]()
+
+<hr>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/_BhAsKaR?ext=activity)
+
+<hr>
 </div>
 
 ![Snake animation](https://github.com/Banner-19/Banner-19/blob/output/github-contribution-grid-snake.svg)
