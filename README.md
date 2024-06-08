@@ -100,8 +100,8 @@ About Me = [
 <div align="center">
     <h3><b>Cloud</b></h3>
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" title="aws" alt="aws"  height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://www.netapp.com/media/azure-logo_tcm19-104947.jpg?v=12268" title="aws" alt="aws"  height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-1024x823-wiwlyizc.png" title="Google Cloud" alt="Google Cloud"  height="40"/></a></code>&nbsp;
+<!--     <code><a href="#" target="_blank"><img src="https://www.netapp.com/media/azure-logo_tcm19-104947.jpg?v=12268" title="aws" alt="aws"  height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-1024x823-wiwlyizc.png" title="Google Cloud" alt="Google Cloud"  height="40"/></a></code>&nbsp; -->
     <code><a href="#" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8HXOj5XRJLCv-NlR868DNQuDgzUqN8Gy-bUgeqRMUTw&s" title="CloudSim" alt="cloudsim"  height="40"/></a></code>&nbsp;
 </div>
 
@@ -152,6 +152,8 @@ About Me = [
 </div>
 
 ![Snake animation](https://github.com/Banner-19/Banner-19/blob/output/github-contribution-grid-snake.svg)
+
+[![](https://visitcount.itsvg.in/api?id=Banner-19&icon=7&color=2)](https://visitcount.itsvg.in)
 
 ```bash
     Copyright (c) 2022-2032 Bhaskar Banerjee and the PerfectCube Team
