@@ -146,16 +146,6 @@ About Me = [
 
 <hr>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Banner-19&limit=5&theme=light&combine_all_yearly_contributions=true)
-
-<hr>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Banner-19&theme=light&no-frame=false&no-bg=false&margin-w=4)
-
-<hr>
-
 ![Leetcode Stats](https://leetcard.jacoblin.cool/_BhAsKaR?ext=activity)
 
 <hr>
