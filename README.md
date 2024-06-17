@@ -153,7 +153,8 @@ About Me = [
 
 ![Snake animation](https://github.com/Banner-19/Banner-19/blob/output/github-contribution-grid-snake.svg)
 
-[![](https://visitcount.itsvg.in/api?id=Banner-19&icon=7&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Banner-19&label=Visitors&icon=0&pretty=true)]()
+
 
 ```bash
     Copyright (c) 2022-2032 Bhaskar Banerjee and the PerfectCube Team
