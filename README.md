@@ -36,6 +36,11 @@ Driven by a passion for innovation and a commitment to excellence, I continually
         </ul>
         <br />
     </div>
+### 📝 &nbsp;Publications📚
+<ul>
+  <li><a href="https://arks0001.medium.com/qwhale-hybrid-reinforcement-learning-algorithm-for-energy-efficient-optimization-and-scheduling-61e9375ddaa0">QWhale Hybrid Reinforcement Learning Algorithm for Energy Efficient Optimization and Scheduling</a></li>
+</ul>
+
 ```py
 About Me = [
     "I'm a student with a passion for Artificial Intelligence and Cloud Computing.",
