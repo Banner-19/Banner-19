@@ -167,7 +167,8 @@ About Me = [
 
 <hr>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/_BhAsKaR?ext=activity)
+![leetcode](https://github.com/user-attachments/assets/886b3037-7f29-4854-930e-24a98ac9cebf)
+
 
 <hr>
 </div>
