@@ -14,19 +14,34 @@
         <br />
         <p>
             <strong>
-               With a solid foundation in machine learning, cloud architecture, and competitive coding, I've cultivated a diverse skill set that allows me to thrive in various technological domains. Armed with years of experience, I approach each project with a unique blend of expertise and innovation.
+               With a robust foundation in machine learning, cloud architecture, and competitive coding, I bring a diverse and interdisciplinary approach to solving real-world challenges. My experience spans autonomous systems, quantum-secure cybersecurity, and intelligent simulations, combining practical development with deep research in emerging technologies.
 
-Proficient in an array of programming languages including Python, Java, C, C++, JavaScript, and Dart, I'm equipped to tackle diverse programming challenges with ease. I leverage frameworks such as Flutter, Django, Flask, NLTK, Dash, and Pandas to streamline development processes and deliver efficient solutions.
+🔧 I'm proficient in multiple languages including Python, Java, C, C++, JavaScript, and Dart, and I work comfortably across various tech stacks—using frameworks such as Flutter, Django, Flask, NLTK, Dash, Streamlit, and Pandas to deliver scalable and efficient solutions.
 
-My expertise in machine learning enables me to uncover intricate data patterns and extract actionable insights, while my role as a cloud architect ensures the scalability, efficiency, and security of the solutions I design. As a competitive coder, I excel in high-pressure environments, leveraging my problem-solving skills to deliver optimal solutions under tight deadlines.
+🚀 My work includes:
 
-Driven by a passion for innovation and a commitment to excellence, I continually push the boundaries of what's possible in machine learning, cloud computing, and competitive coding. Whether it's designing cutting-edge models, architecting robust cloud solutions, or achieving success in coding competitions, I approach each challenge with enthusiasm and determination.
+* Developing a 3D AI assistant powered by LLMs for intelligent user interaction.
+
+* Engineering quantum-resistant cybersecurity with CRYSTALS-Kyber and Dilithium.
+
+* Architecting dual-mode AI systems like B.E.A.M., which boost EV battery performance by up to 30%.
+
+* Creating AR/VR simulations in Unreal Engine, Twinmotion, and JigSpace.
+
+📡 I also build real-time monitoring stacks with Prometheus and Grafana, and design agentic AI drones and metaverse environments for simulation and inspection tasks.
             </strong>
         </p>
         <h1></h1>
+        <h2>🧠 Current Focus</h2>
         <ul>
-            <li>🔭 <b>I’m currently working on</b>:Data Analytics using AWS Services like Athena, Sagemaker, S3, EC2, etc</li>
-            <li>🌱 <b>I’m currently learning</b>:Cloud Computing, Architecture, and Simulation</li>
+<li>Researching new technologies in Artificial Intelligence, System Design, and Cloud-native Architectures</li>
+
+<li>Exploring Generative AI, Agentic AI, and Simulation Frameworks</li>
+
+<li>Innovating with AWS services: Sagemaker, Athena, EC2, and S3 for advanced analytics</li>
+</ul>
+<h1></h1>
+        <ul>
             <li>💬 <b>Ask me about</b>: Machine Learning Algorithms , Data Science, NLP, Flutter Development, Frontend Development, and Competitive Programming.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆,or just raise a issue and join us in one of the discussions.</li>
             <li>🤔 <b>I’m currently open for</b>: A new Internship & Job opportunities and Open Source Projects.
@@ -40,6 +55,8 @@ Driven by a passion for innovation and a commitment to excellence, I continually
 
 ### 📝 &nbsp;Publications📚
 <ul>
+    <li><a href="https://doi.org/g86w87">Crystal Quantum Shield (CQS): A Post-Quantum Cybersecurity Framework for API and Data Protection</a></li>
+    <li><a href="https://doi.org/g82gwq">QWhale and SARSAWhale: Energy-Efficient and Energy-Aware Algorithms for High-Load Cloud Environments</a></li>
   <li><a href="https://arks0001.medium.com/qwhale-hybrid-reinforcement-learning-algorithm-for-energy-efficient-optimization-and-scheduling-61e9375ddaa0">QWhale Hybrid Reinforcement Learning Algorithm for Energy Efficient Optimization and Scheduling</a></li>
 </ul>
 
@@ -47,7 +64,7 @@ Driven by a passion for innovation and a commitment to excellence, I continually
 
 ```py
 About Me = [
-    "I'm a student with a passion for Artificial Intelligence and Cloud Computing.",
+    "A recent Computer Science graduate driven by a passion for Artificial Intelligence and Cloud Computing, with hands-on experience in building scalable, intelligent systems.",
     "Proficient in languages like Python,Java,C/C++,Dart,JavaScript; as well as Frontend technologies like HTML, CSS, and JS, including Full stack and MERN.",
     "Dedicated to exploring new concepts & Algorithm every day.",
     "In the ethereal domain where each byte bears weight and velocity holds sovereignty, I emerge as the artisan of code, sculpting efficiency into existence with every keystroke. 💻✨"
@@ -71,12 +88,15 @@ About Me = [
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="C" alt="C" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" title="C++" alt="c++"  height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="python"  height="40"/></a></code>&nbsp;&nbsp;
-    <code><a href="#" target="_blank"><img src="https://static.javatpoint.com/core/images/java-logo1.png" title="Java" alt="java"  height="40"/></a></code>&nbsp;&nbsp;
+    <code><a href="#" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9n6QSmgQptW2phyDWe1k6ZA8eRzhjlx2Vxg&s" title="Java" alt="java"  height="40"/></a></code>&nbsp;&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" title="JavaScript" alt="javascript"  height="40"/></a></code>&nbsp;&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" title="Dart" alt="Dart"  height="40"/></a></code>&nbsp;&nbsp;
 </div>
 <div align="center">
     <h3><b>Frameworks</b></h3>
+    <code><a href="#" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:1400/1*44fD_VXcqw2kDWublQLONw.jpeg" title="Langchain" alt="langchain"  height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langgraph.png" title="Langgraph" alt="langgraph"  height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSeRdOo-WucXlITj0XdjTKYQch6QQk-ARyfA&s" title="Autogen" alt="autogen"  height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" title="BootStrap" alt="bootstrap"  height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://e7.pngegg.com/pngimages/654/56/png-clipart-flask-web-framework-python-software-framework-jinja-flask-miscellaneous-monochrome-thumbnail.png" title="Flask" alt="Flask" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" title="Express" alt="Express" height="40"/></a></code>&nbsp;
@@ -87,14 +107,14 @@ About Me = [
 <div align="center">
     <h3><b>Libraries</b></h3>
     <code><a href="#" target="_blank"> <img src="https://logosandtypes.com/wp-content/uploads/2024/02/NumPy.png" title="Numpy" alt="numpy" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png" title="Pandas" alt="pandas" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" title="Scikit Learn" alt="sklearn" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" title="Pandas" alt="pandas" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" title="Scikit Learn" alt="sklearn" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"> <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" title="Open CV" alt="open cv" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" title="Tensorflow" alt="tensorflow" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoAubNiI_aSMGINDD6rQZMepg417jWh7UMQ&s" title="Scipy" alt="scipy" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" title="Matplotlib" alt="matplotlib" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" title="Matplotlib" alt="matplotlib" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" title="Seaborn" alt="seaborn" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" title="NodeJS" alt="nodejs" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://www.clipartmax.com/png/middle/87-879058_formation-node-js-node-js-logo-vector.png" title="NodeJS" alt="nodejs" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React" alt="React" height="40"/></a></code>&nbsp;
 </div>
 
@@ -116,6 +136,10 @@ About Me = [
 
 <div align="center">
     <h3><b>Tools</b></h3>
+    <code><a href="#" target="_blank"><img src="https://e7.pngegg.com/pngimages/146/983/png-clipart-blender-3d-computer-graphics-logo-filehippo-3d-modeling-blenders-3d-computer-graphics-text-thumbnail.png" title="Blender" alt="blender" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/unreal-1.svg" title="Unreal Engine" alt="unreal engine" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTefM0wETwfDZGreDjTOq9hD-UBnbsiFPWNgQ&s" title="JigSpace" alt="jigspace" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ55Y8wsPygSifBi3WJ9x_Bz26JygRwkJtVMw&s" title="Unity" alt="unity" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="VSCode" alt="vscode" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="GitHub" alt="github" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://d28yx2zopyx2ad.cloudfront.net/assets/git.png" title="Git" alt="git" width="40" height="40"/></a></code>&nbsp;
