@@ -179,7 +179,8 @@ About Me = [
 
 <hr>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Banner-19&theme=transparent&count_private=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=thesirix&theme=tokyonight)](https://git.io/streak-stats)
+
 
 <hr>
 
