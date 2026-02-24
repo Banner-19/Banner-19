@@ -58,6 +58,7 @@
     <li><a href="https://doi.org/g86w87">Crystal Quantum Shield (CQS): A Post-Quantum Cybersecurity Framework for API and Data Protection</a></li>
     <li><a href="https://doi.org/g82gwq">QWhale and SARSAWhale: Energy-Efficient and Energy-Aware Algorithms for High-Load Cloud Environments</a></li>
   <li><a href="https://arks0001.medium.com/qwhale-hybrid-reinforcement-learning-algorithm-for-energy-efficient-optimization-and-scheduling-61e9375ddaa0">QWhale Hybrid Reinforcement Learning Algorithm for Energy Efficient Optimization and Scheduling</a></li>
+    <li><a href="https://medium.com/@banner19/from-error-to-insight-how-guided-hallucinations-are-unlocking-the-creative-potential-of-llms-b95c1a45c114">From Error to Insight: How Guided Hallucinations Are Unlocking the Creative Potential of LLMs</a></li>
 </ul>
 
 <hr>
